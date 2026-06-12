@@ -86,7 +86,7 @@ Python | Pandas | NumPy | NLTK | Scikit-learn | TensorFlow/Keras | SHAP | LIME |
 
 ---
 
-## ⚙️Setup Instructions
+## Setup Instructions
 ```bash
 git clone https://github.com/nduvawinnie/twitter-sentiment-analysis.git
 conda activate learn-env

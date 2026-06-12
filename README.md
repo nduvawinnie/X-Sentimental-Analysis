@@ -1,5 +1,5 @@
 #  Twitter Sentiment Analysis — Apple & Google Products
-### NLP End-to-End Binary Classification Project | Phase 4 | Moringa School
+### NLP End-to-End Binary Classification Project 
 
 ---
 

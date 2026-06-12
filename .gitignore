@@ -1,0 +1,39 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+*.env
+conda-env/
+learn-env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+*.h5
+*.joblib
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Distribution
+dist/
+build/
+*.egg-info/
